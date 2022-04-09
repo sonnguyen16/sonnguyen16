@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sơn
 - 👀 I’m interested in mobile app
-- 🌱 I’m currently learning flutter 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate with other mobile developers
 
 
